@@ -1,0 +1,9 @@
+Elizabeth is a Main Plus Class passenger flying from São Paulo to New Orleans with the following items:
+1. A backpack: 19 x 12 x 6 inches, 5 lbs;
+2. A luggage box: 37 x 17 x 13 inches, 53 lbs;
+3. A backpack: 35 x 17 x 12 inches, 94 lbs;
+4. A backpack: 53 x 32 x 26 inches, 86 lbs;
+5. A backpack: 37 x 13 x 13 inches, 67 lbs;
+6. A backpack: 35 x 20 x 11 inches, 73 lbs;
+
+Elizabeth's flight ticket is $790.

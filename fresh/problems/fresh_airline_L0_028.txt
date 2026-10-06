@@ -1,0 +1,8 @@
+Thomas is a Basic Economy Class passenger flying from New York to Busan with the following items:
+1. A backpack: 22 x 13 x 9 inches, 10 lbs;
+2. A backpack: 39 x 23 x 16 inches, 52 lbs;
+3. A backpack: 41 x 26 x 22 inches, 52 lbs;
+4. A luggage box: 37 x 14 x 13 inches, 71 lbs;
+5. A backpack: 40 x 21 x 15 inches, 74 lbs;
+
+Thomas's flight ticket is $595.

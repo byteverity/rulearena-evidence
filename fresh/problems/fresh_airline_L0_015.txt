@@ -1,0 +1,8 @@
+Jennifer is a First Class passenger flying from Boston to São Paulo with the following items:
+1. A backpack: 22 x 14 x 8 inches, 9 lbs;
+2. A backpack: 36 x 16 x 11 inches, 55 lbs;
+3. A backpack: 42 x 22 x 19 inches, 60 lbs;
+4. A luggage box: 39 x 19 x 18 inches, 75 lbs;
+5. A backpack: 46 x 19 x 22 inches, 51 lbs;
+
+Jennifer's flight ticket is $937.

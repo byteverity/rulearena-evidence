@@ -1,0 +1,8 @@
+Mary is a Basic Economy Class passenger flying from Miami to New Delhi with the following items:
+1. A backpack: 20 x 11 x 8 inches, 12 lbs;
+2. A backpack: 35 x 19 x 10 inches, 52 lbs;
+3. A luggage box: 43 x 22 x 22 inches, 52 lbs;
+4. A backpack: 37 x 15 x 14 inches, 98 lbs;
+5. A luggage box: 33 x 17 x 13 inches, 66 lbs;
+
+Mary's flight ticket is $574.

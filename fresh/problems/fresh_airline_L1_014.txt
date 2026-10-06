@@ -1,0 +1,9 @@
+Michael is a Main Cabin Class passenger flying from Buenos Aires to Las Vegas with the following items:
+1. A backpack: 19 x 11 x 7 inches, 11 lbs;
+2. A luggage box: 37 x 24 x 13 inches, 56 lbs;
+3. A backpack: 37 x 24 x 14 inches, 74 lbs;
+4. A backpack: 50 x 34 x 26 inches, 52 lbs;
+5. A backpack: 42 x 23 x 16 inches, 52 lbs;
+6. A luggage box: 49 x 33 x 22 inches, 52 lbs;
+
+Michael's flight ticket is $1005.

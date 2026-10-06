@@ -1,0 +1,8 @@
+Karen is a Basic Economy Class passenger flying from Charlotte to Miami with the following items:
+1. A backpack: 22 x 11 x 9 inches, 6 lbs;
+2. A backpack: 55 x 33 x 27 inches, 69 lbs;
+3. A backpack: 45 x 26 x 21 inches, 57 lbs;
+4. A backpack: 50 x 31 x 22 inches, 53 lbs;
+5. A backpack: 36 x 17 x 12 inches, 100 lbs;
+
+Karen's flight ticket is $164.

@@ -1,0 +1,14 @@
+Elizabeth is a Business Class passenger flying from Lima to Sacramento with the following items:
+1. A backpack: 22 x 12 x 6 inches, 6 lbs;
+2. A luggage box: 34 x 18 x 12 inches, 100 lbs;
+3. A luggage box: 33 x 22 x 9 inches, 53 lbs;
+4. A backpack: 33 x 19 x 12 inches, 53 lbs;
+5. A backpack: 34 x 19 x 11 inches, 52 lbs;
+6. A luggage box: 50 x 26 x 27 inches, 65 lbs;
+7. A backpack: 36 x 18 x 11 inches, 94 lbs;
+8. A luggage box: 44 x 17 x 20 inches, 63 lbs;
+9. A luggage box: 53 x 28 x 29 inches, 53 lbs;
+10. A backpack: 36 x 17 x 12 inches, 52 lbs;
+11. A backpack: 40 x 17 x 14 inches, 52 lbs;
+
+Elizabeth's flight ticket is $452.

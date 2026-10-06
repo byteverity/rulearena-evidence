@@ -1,0 +1,14 @@
+Daniel is a Main Plus Class passenger flying from Charlotte to Athens with the following items:
+1. A backpack: 20 x 11 x 8 inches, 7 lbs;
+2. A backpack: 39 x 13 x 14 inches, 54 lbs;
+3. A luggage box: 48 x 32 x 29 inches, 56 lbs;
+4. A luggage box: 43 x 29 x 18 inches, 65 lbs;
+5. A luggage box: 36 x 19 x 9 inches, 52 lbs;
+6. A luggage box: 52 x 32 x 31 inches, 60 lbs;
+7. A backpack: 36 x 15 x 14 inches, 52 lbs;
+8. A luggage box: 48 x 33 x 24 inches, 51 lbs;
+9. A luggage box: 51 x 24 x 27 inches, 69 lbs;
+10. A backpack: 34 x 18 x 12 inches, 55 lbs;
+11. A backpack: 50 x 35 x 29 inches, 51 lbs;
+
+Daniel's flight ticket is $198.

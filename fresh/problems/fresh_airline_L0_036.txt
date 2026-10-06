@@ -1,0 +1,8 @@
+Linda is a Business Class passenger flying from Denver to Copenhagen with the following items:
+1. A backpack: 18 x 11 x 6 inches, 6 lbs;
+2. A luggage box: 33 x 20 x 11 inches, 52 lbs;
+3. A luggage box: 34 x 21 x 9 inches, 70 lbs;
+4. A backpack: 42 x 19 x 15 inches, 51 lbs;
+5. A luggage box: 36 x 15 x 12 inches, 51 lbs;
+
+Linda's flight ticket is $575.

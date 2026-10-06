@@ -1,0 +1,11 @@
+Elizabeth is a Premium Economy Class passenger flying from Wuhan to Dallas with the following items:
+1. A backpack: 18 x 13 x 8 inches, 12 lbs;
+2. A luggage box: 38 x 17 x 10 inches, 87 lbs;
+3. A backpack: 34 x 21 x 9 inches, 84 lbs;
+4. A luggage box: 50 x 39 x 26 inches, 97 lbs;
+5. A backpack: 35 x 17 x 12 inches, 70 lbs;
+6. A luggage box: 35 x 15 x 13 inches, 53 lbs;
+7. A luggage box: 34 x 18 x 12 inches, 81 lbs;
+8. A backpack: 48 x 30 x 24 inches, 52 lbs;
+
+Elizabeth's flight ticket is $865.

@@ -1,0 +1,9 @@
+Thomas is a Main Cabin Class passenger flying from São Paulo to Sacramento with the following items:
+1. A backpack: 19 x 11 x 9 inches, 11 lbs;
+2. A backpack: 33 x 16 x 14 inches, 68 lbs;
+3. A luggage box: 46 x 19 x 22 inches, 75 lbs;
+4. A luggage box: 50 x 24 x 26 inches, 84 lbs;
+5. A backpack: 45 x 24 x 23 inches, 92 lbs;
+6. A backpack: 34 x 20 x 10 inches, 53 lbs;
+
+Thomas's flight ticket is $755.

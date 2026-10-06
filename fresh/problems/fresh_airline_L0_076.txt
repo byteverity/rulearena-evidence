@@ -1,0 +1,8 @@
+Emily is a First Class passenger flying from Salt Lake City to Busan with the following items:
+1. A backpack: 20 x 13 x 8 inches, 11 lbs;
+2. A luggage box: 35 x 20 x 9 inches, 55 lbs;
+3. A luggage box: 41 x 17 x 14 inches, 51 lbs;
+4. A backpack: 51 x 27 x 25 inches, 73 lbs;
+5. A luggage box: 36 x 17 x 11 inches, 61 lbs;
+
+Emily's flight ticket is $345.

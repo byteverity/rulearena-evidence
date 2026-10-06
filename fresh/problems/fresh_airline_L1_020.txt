@@ -1,0 +1,11 @@
+Jennifer is a Main Plus Class passenger flying from Boston to Amsterdam with the following items:
+1. A backpack: 20 x 13 x 6 inches, 7 lbs;
+2. A backpack: 35 x 19 x 11 inches, 59 lbs;
+3. A backpack: 33 x 21 x 10 inches, 70 lbs;
+4. A luggage box: 38 x 16 x 10 inches, 52 lbs;
+5. A backpack: 39 x 23 x 19 inches, 63 lbs;
+6. A backpack: 43 x 28 x 17 inches, 53 lbs;
+7. A luggage box: 39 x 22 x 14 inches, 52 lbs;
+8. A luggage box: 39 x 24 x 18 inches, 55 lbs;
+
+Jennifer's flight ticket is $676.

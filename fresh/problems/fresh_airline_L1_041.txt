@@ -1,0 +1,11 @@
+Linda is a Business Class passenger flying from Phoenix to Boston with the following items:
+1. A backpack: 22 x 13 x 6 inches, 10 lbs;
+2. A backpack: 52 x 27 x 27 inches, 51 lbs;
+3. A backpack: 35 x 16 x 14 inches, 53 lbs;
+4. A luggage box: 36 x 19 x 10 inches, 53 lbs;
+5. A backpack: 46 x 25 x 22 inches, 89 lbs;
+6. A luggage box: 38 x 18 x 9 inches, 52 lbs;
+7. A backpack: 36 x 16 x 13 inches, 51 lbs;
+8. A luggage box: 38 x 18 x 9 inches, 81 lbs;
+
+Linda's flight ticket is $226.

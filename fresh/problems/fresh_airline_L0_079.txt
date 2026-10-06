@@ -1,0 +1,8 @@
+Sarah is a Business Class passenger flying from Charlotte to Dallas with the following items:
+1. A backpack: 22 x 13 x 7 inches, 7 lbs;
+2. A luggage box: 37 x 17 x 11 inches, 58 lbs;
+3. A luggage box: 34 x 19 x 10 inches, 67 lbs;
+4. A backpack: 33 x 18 x 14 inches, 92 lbs;
+5. A luggage box: 44 x 26 x 17 inches, 52 lbs;
+
+Sarah's flight ticket is $93.

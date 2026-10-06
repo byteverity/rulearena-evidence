@@ -1,0 +1,8 @@
+Thomas is a Main Plus Class passenger flying from Chicago to Doha with the following items:
+1. A backpack: 18 x 13 x 9 inches, 10 lbs;
+2. A luggage box: 55 x 34 x 26 inches, 64 lbs;
+3. A luggage box: 35 x 18 x 12 inches, 65 lbs;
+4. A luggage box: 40 x 21 x 17 inches, 65 lbs;
+5. A luggage box: 38 x 14 x 13 inches, 55 lbs;
+
+Thomas's flight ticket is $906.

@@ -1,0 +1,14 @@
+Thomas is a Main Plus Class passenger flying from Montreal to San Francisco with the following items:
+1. A backpack: 21 x 13 x 8 inches, 7 lbs;
+2. A luggage box: 37 x 22 x 13 inches, 85 lbs;
+3. A backpack: 37 x 16 x 11 inches, 92 lbs;
+4. A luggage box: 38 x 11 x 14 inches, 98 lbs;
+5. A luggage box: 35 x 18 x 11 inches, 72 lbs;
+6. A backpack: 41 x 17 x 15 inches, 69 lbs;
+7. A backpack: 35 x 15 x 13 inches, 64 lbs;
+8. A backpack: 44 x 26 x 21 inches, 52 lbs;
+9. A backpack: 40 x 15 x 14 inches, 94 lbs;
+10. A backpack: 44 x 23 x 16 inches, 56 lbs;
+11. A luggage box: 38 x 22 x 15 inches, 51 lbs;
+
+Thomas's flight ticket is $249.

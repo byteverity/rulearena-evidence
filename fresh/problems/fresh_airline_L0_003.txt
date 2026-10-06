@@ -1,0 +1,8 @@
+Robert is a Premium Economy Class passenger flying from Las Vegas to Boston with the following items:
+1. A backpack: 21 x 11 x 7 inches, 12 lbs;
+2. A luggage box: 39 x 15 x 13 inches, 90 lbs;
+3. A luggage box: 45 x 22 x 19 inches, 60 lbs;
+4. A backpack: 38 x 12 x 13 inches, 53 lbs;
+5. A backpack: 47 x 35 x 23 inches, 68 lbs;
+
+Robert's flight ticket is $36.

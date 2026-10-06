@@ -1,0 +1,11 @@
+Jennifer is a First Class passenger flying from San Juan to Salt Lake City with the following items:
+1. A backpack: 19 x 11 x 9 inches, 12 lbs;
+2. A backpack: 38 x 17 x 10 inches, 93 lbs;
+3. A luggage box: 38 x 16 x 11 inches, 51 lbs;
+4. A backpack: 46 x 33 x 25 inches, 68 lbs;
+5. A backpack: 46 x 32 x 21 inches, 89 lbs;
+6. A luggage box: 47 x 27 x 21 inches, 58 lbs;
+7. A luggage box: 41 x 27 x 17 inches, 56 lbs;
+8. A luggage box: 47 x 26 x 25 inches, 73 lbs;
+
+Jennifer's flight ticket is $265.

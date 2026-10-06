@@ -1,0 +1,8 @@
+Sarah is a Premium Economy Class passenger flying from Shenzhen to Salt Lake City with the following items:
+1. A backpack: 18 x 13 x 6 inches, 10 lbs;
+2. A luggage box: 49 x 28 x 22 inches, 64 lbs;
+3. A luggage box: 46 x 29 x 26 inches, 73 lbs;
+4. A backpack: 33 x 18 x 14 inches, 66 lbs;
+5. A backpack: 39 x 19 x 18 inches, 68 lbs;
+
+Sarah's flight ticket is $1463.

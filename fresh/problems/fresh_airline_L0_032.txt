@@ -1,0 +1,8 @@
+Karen is a Premium Economy Class passenger flying from Seoul to Miami with the following items:
+1. A backpack: 19 x 11 x 7 inches, 10 lbs;
+2. A luggage box: 36 x 19 x 9 inches, 69 lbs;
+3. A backpack: 40 x 18 x 13 inches, 52 lbs;
+4. A backpack: 46 x 28 x 22 inches, 71 lbs;
+5. A luggage box: 44 x 26 x 24 inches, 93 lbs;
+
+Karen's flight ticket is $348.

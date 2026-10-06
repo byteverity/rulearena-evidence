@@ -1,0 +1,8 @@
+Michael is a Basic Economy Class passenger flying from Philadelphia to Sacramento with the following items:
+1. A backpack: 19 x 12 x 7 inches, 7 lbs;
+2. A backpack: 38 x 26 x 14 inches, 64 lbs;
+3. A backpack: 37 x 17 x 9 inches, 100 lbs;
+4. A backpack: 33 x 20 x 10 inches, 51 lbs;
+5. A backpack: 33 x 19 x 11 inches, 64 lbs;
+
+Michael's flight ticket is $243.

@@ -1,0 +1,8 @@
+Linda is a Main Plus Class passenger flying from Roma to Seattle with the following items:
+1. A backpack: 22 x 13 x 8 inches, 9 lbs;
+2. A backpack: 35 x 19 x 9 inches, 53 lbs;
+3. A luggage box: 34 x 17 x 14 inches, 56 lbs;
+4. A luggage box: 37 x 17 x 10 inches, 52 lbs;
+5. A backpack: 49 x 37 x 26 inches, 53 lbs;
+
+Linda's flight ticket is $322.

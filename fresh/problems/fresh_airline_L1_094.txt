@@ -1,0 +1,11 @@
+Emily is a First Class passenger flying from New Orleans to Toronto with the following items:
+1. A backpack: 21 x 11 x 6 inches, 12 lbs;
+2. A backpack: 42 x 16 x 17 inches, 51 lbs;
+3. A luggage box: 36 x 18 x 9 inches, 53 lbs;
+4. A backpack: 38 x 17 x 10 inches, 93 lbs;
+5. A backpack: 37 x 23 x 17 inches, 88 lbs;
+6. A luggage box: 41 x 22 x 21 inches, 68 lbs;
+7. A luggage box: 34 x 17 x 14 inches, 51 lbs;
+8. A backpack: 44 x 29 x 19 inches, 53 lbs;
+
+Emily's flight ticket is $124.

@@ -1,0 +1,11 @@
+Emily is a Premium Economy Class passenger flying from Atlanta to Washington D.C. with the following items:
+1. A backpack: 22 x 13 x 6 inches, 7 lbs;
+2. A backpack: 44 x 22 x 16 inches, 87 lbs;
+3. A backpack: 35 x 16 x 12 inches, 52 lbs;
+4. A backpack: 50 x 25 x 24 inches, 83 lbs;
+5. A backpack: 38 x 12 x 13 inches, 70 lbs;
+6. A luggage box: 47 x 35 x 22 inches, 59 lbs;
+7. A backpack: 51 x 37 x 27 inches, 77 lbs;
+8. A backpack: 36 x 16 x 13 inches, 52 lbs;
+
+Emily's flight ticket is $171.

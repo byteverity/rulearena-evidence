@@ -1,0 +1,14 @@
+Jennifer is a Main Cabin Class passenger flying from Washington D.C. to Minneapolis with the following items:
+1. A backpack: 19 x 14 x 8 inches, 11 lbs;
+2. A luggage box: 37 x 12 x 14 inches, 82 lbs;
+3. A backpack: 44 x 31 x 22 inches, 51 lbs;
+4. A backpack: 33 x 19 x 12 inches, 66 lbs;
+5. A backpack: 33 x 20 x 11 inches, 52 lbs;
+6. A backpack: 53 x 31 x 25 inches, 52 lbs;
+7. A backpack: 38 x 21 x 15 inches, 58 lbs;
+8. A luggage box: 34 x 18 x 11 inches, 63 lbs;
+9. A luggage box: 40 x 24 x 14 inches, 53 lbs;
+10. A backpack: 44 x 28 x 18 inches, 76 lbs;
+11. A backpack: 40 x 27 x 17 inches, 72 lbs;
+
+Jennifer's flight ticket is $248.

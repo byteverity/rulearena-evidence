@@ -1,0 +1,9 @@
+Robert is a Main Plus Class passenger flying from Portland to Mexico City with the following items:
+1. A backpack: 19 x 12 x 6 inches, 10 lbs;
+2. A luggage box: 38 x 16 x 10 inches, 57 lbs;
+3. A luggage box: 37 x 23 x 17 inches, 60 lbs;
+4. A luggage box: 40 x 24 x 20 inches, 53 lbs;
+5. A luggage box: 37 x 15 x 13 inches, 53 lbs;
+6. A luggage box: 51 x 25 x 26 inches, 82 lbs;
+
+Robert's flight ticket is $151.

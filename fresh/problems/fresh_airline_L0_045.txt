@@ -1,0 +1,8 @@
+Karen is a Main Cabin Class passenger flying from Houston to Auckland with the following items:
+1. A backpack: 22 x 11 x 9 inches, 7 lbs;
+2. A backpack: 34 x 21 x 9 inches, 65 lbs;
+3. A luggage box: 46 x 27 x 21 inches, 56 lbs;
+4. A backpack: 38 x 13 x 14 inches, 52 lbs;
+5. A backpack: 36 x 17 x 11 inches, 54 lbs;
+
+Karen's flight ticket is $971.

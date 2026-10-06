@@ -1,0 +1,8 @@
+Thomas is a Basic Economy Class passenger flying from Brussels to Seattle with the following items:
+1. A backpack: 20 x 12 x 8 inches, 5 lbs;
+2. A backpack: 37 x 13 x 13 inches, 67 lbs;
+3. A luggage box: 38 x 15 x 13 inches, 60 lbs;
+4. A backpack: 38 x 15 x 10 inches, 52 lbs;
+5. A backpack: 34 x 18 x 11 inches, 53 lbs;
+
+Thomas's flight ticket is $335.

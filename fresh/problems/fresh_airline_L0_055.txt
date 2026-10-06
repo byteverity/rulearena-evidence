@@ -1,0 +1,8 @@
+Daniel is a Main Plus Class passenger flying from Washington D.C. to Philadelphia with the following items:
+1. A backpack: 18 x 11 x 9 inches, 7 lbs;
+2. A backpack: 37 x 15 x 13 inches, 52 lbs;
+3. A backpack: 40 x 18 x 13 inches, 53 lbs;
+4. A backpack: 38 x 24 x 16 inches, 79 lbs;
+5. A backpack: 33 x 18 x 13 inches, 52 lbs;
+
+Daniel's flight ticket is $133.

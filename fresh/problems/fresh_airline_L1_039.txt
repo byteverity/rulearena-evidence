@@ -1,0 +1,11 @@
+Mary is a Basic Economy Class passenger flying from Portland to Phoenix with the following items:
+1. A backpack: 21 x 12 x 7 inches, 8 lbs;
+2. A luggage box: 50 x 31 x 23 inches, 92 lbs;
+3. A luggage box: 40 x 20 x 14 inches, 57 lbs;
+4. A backpack: 44 x 28 x 19 inches, 55 lbs;
+5. A backpack: 41 x 22 x 20 inches, 57 lbs;
+6. A luggage box: 42 x 18 x 17 inches, 94 lbs;
+7. A luggage box: 39 x 26 x 16 inches, 95 lbs;
+8. A luggage box: 38 x 17 x 9 inches, 70 lbs;
+
+Mary's flight ticket is $231.

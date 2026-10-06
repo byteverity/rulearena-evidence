@@ -1,0 +1,8 @@
+James is a Main Cabin Class passenger flying from Atlanta to Denver with the following items:
+1. A backpack: 19 x 12 x 7 inches, 12 lbs;
+2. A backpack: 37 x 15 x 13 inches, 98 lbs;
+3. A backpack: 41 x 30 x 18 inches, 53 lbs;
+4. A backpack: 37 x 14 x 12 inches, 63 lbs;
+5. A backpack: 34 x 22 x 9 inches, 52 lbs;
+
+James's flight ticket is $53.

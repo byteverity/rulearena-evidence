@@ -1,0 +1,11 @@
+Linda is a Basic Economy Class passenger flying from Seattle to Los Angeles with the following items:
+1. A backpack: 22 x 14 x 7 inches, 12 lbs;
+2. A backpack: 36 x 21 x 13 inches, 53 lbs;
+3. A luggage box: 35 x 16 x 13 inches, 70 lbs;
+4. A backpack: 49 x 31 x 27 inches, 56 lbs;
+5. A luggage box: 51 x 32 x 25 inches, 60 lbs;
+6. A luggage box: 43 x 30 x 19 inches, 59 lbs;
+7. A luggage box: 38 x 17 x 10 inches, 51 lbs;
+8. A backpack: 33 x 20 x 10 inches, 90 lbs;
+
+Linda's flight ticket is $252.

@@ -1,0 +1,11 @@
+William is a Business Class passenger flying from Philadelphia to Salt Lake City with the following items:
+1. A backpack: 18 x 13 x 6 inches, 6 lbs;
+2. A backpack: 38 x 15 x 10 inches, 81 lbs;
+3. A luggage box: 33 x 22 x 10 inches, 53 lbs;
+4. A luggage box: 39 x 21 x 17 inches, 68 lbs;
+5. A backpack: 38 x 16 x 11 inches, 65 lbs;
+6. A backpack: 37 x 18 x 9 inches, 86 lbs;
+7. A luggage box: 46 x 22 x 20 inches, 51 lbs;
+8. A luggage box: 39 x 19 x 12 inches, 51 lbs;
+
+William's flight ticket is $253.

@@ -1,0 +1,11 @@
+Elizabeth is a Main Cabin Class passenger flying from Incheon to Sacramento with the following items:
+1. A backpack: 18 x 11 x 9 inches, 10 lbs;
+2. A backpack: 51 x 37 x 26 inches, 53 lbs;
+3. A luggage box: 47 x 27 x 21 inches, 51 lbs;
+4. A luggage box: 36 x 17 x 12 inches, 76 lbs;
+5. A backpack: 39 x 25 x 16 inches, 58 lbs;
+6. A backpack: 34 x 18 x 13 inches, 61 lbs;
+7. A luggage box: 34 x 21 x 10 inches, 56 lbs;
+8. A backpack: 49 x 30 x 24 inches, 66 lbs;
+
+Elizabeth's flight ticket is $441.

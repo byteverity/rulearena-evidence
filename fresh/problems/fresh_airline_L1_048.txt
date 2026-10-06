@@ -1,0 +1,9 @@
+Charles is a First Class passenger flying from Chicago to São Paulo with the following items:
+1. A backpack: 19 x 11 x 6 inches, 10 lbs;
+2. A backpack: 39 x 24 x 19 inches, 77 lbs;
+3. A backpack: 34 x 22 x 9 inches, 55 lbs;
+4. A backpack: 34 x 21 x 9 inches, 85 lbs;
+5. A backpack: 38 x 16 x 11 inches, 51 lbs;
+6. A luggage box: 33 x 21 x 11 inches, 90 lbs;
+
+Charles's flight ticket is $748.

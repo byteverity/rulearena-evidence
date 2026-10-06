@@ -1,0 +1,8 @@
+Joseph is a Main Cabin Class passenger flying from Miami to Quito with the following items:
+1. A backpack: 19 x 13 x 9 inches, 11 lbs;
+2. A backpack: 34 x 21 x 10 inches, 77 lbs;
+3. A luggage box: 40 x 18 x 16 inches, 64 lbs;
+4. A backpack: 35 x 21 x 9 inches, 51 lbs;
+5. A backpack: 53 x 35 x 27 inches, 63 lbs;
+
+Joseph's flight ticket is $452.

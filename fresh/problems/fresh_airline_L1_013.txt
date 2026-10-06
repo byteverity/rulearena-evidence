@@ -1,0 +1,11 @@
+Robert is a Main Plus Class passenger flying from Washington D.C. to Zurich with the following items:
+1. A backpack: 21 x 14 x 8 inches, 6 lbs;
+2. A backpack: 44 x 29 x 23 inches, 65 lbs;
+3. A backpack: 43 x 21 x 17 inches, 52 lbs;
+4. A backpack: 38 x 12 x 14 inches, 61 lbs;
+5. A luggage box: 34 x 15 x 14 inches, 69 lbs;
+6. A backpack: 41 x 23 x 13 inches, 69 lbs;
+7. A luggage box: 34 x 20 x 9 inches, 53 lbs;
+8. A backpack: 35 x 20 x 9 inches, 65 lbs;
+
+Robert's flight ticket is $259.

@@ -1,0 +1,11 @@
+James is a First Class passenger flying from Paris to Dallas with the following items:
+1. A backpack: 19 x 11 x 8 inches, 10 lbs;
+2. A luggage box: 33 x 19 x 11 inches, 53 lbs;
+3. A backpack: 49 x 30 x 21 inches, 55 lbs;
+4. A luggage box: 54 x 30 x 30 inches, 65 lbs;
+5. A luggage box: 40 x 28 x 18 inches, 63 lbs;
+6. A luggage box: 41 x 26 x 22 inches, 56 lbs;
+7. A backpack: 35 x 25 x 11 inches, 61 lbs;
+8. A luggage box: 41 x 19 x 16 inches, 51 lbs;
+
+James's flight ticket is $497.

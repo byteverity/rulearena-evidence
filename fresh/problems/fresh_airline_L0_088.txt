@@ -1,0 +1,8 @@
+Mary is a Business Class passenger flying from Panama City to Philadelphia with the following items:
+1. A backpack: 21 x 13 x 8 inches, 8 lbs;
+2. A luggage box: 53 x 32 x 30 inches, 98 lbs;
+3. A backpack: 36 x 13 x 14 inches, 55 lbs;
+4. A backpack: 38 x 16 x 10 inches, 52 lbs;
+5. A luggage box: 34 x 16 x 13 inches, 53 lbs;
+
+Mary's flight ticket is $170.

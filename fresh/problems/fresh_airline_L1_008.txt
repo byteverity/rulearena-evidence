@@ -1,0 +1,11 @@
+Susan is a Main Cabin Class passenger flying from Mumbai to Los Angeles with the following items:
+1. A backpack: 22 x 11 x 8 inches, 8 lbs;
+2. A backpack: 41 x 16 x 18 inches, 51 lbs;
+3. A backpack: 38 x 15 x 11 inches, 65 lbs;
+4. A backpack: 44 x 27 x 19 inches, 53 lbs;
+5. A backpack: 47 x 36 x 23 inches, 65 lbs;
+6. A luggage box: 33 x 18 x 12 inches, 61 lbs;
+7. A backpack: 45 x 27 x 21 inches, 76 lbs;
+8. A luggage box: 51 x 31 x 30 inches, 51 lbs;
+
+Susan's flight ticket is $331.

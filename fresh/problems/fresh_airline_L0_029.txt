@@ -1,0 +1,8 @@
+Linda is a Main Cabin Class passenger flying from Orlando to New York with the following items:
+1. A backpack: 21 x 12 x 9 inches, 8 lbs;
+2. A backpack: 34 x 21 x 10 inches, 53 lbs;
+3. A luggage box: 50 x 31 x 29 inches, 85 lbs;
+4. A luggage box: 53 x 33 x 27 inches, 53 lbs;
+5. A backpack: 43 x 23 x 15 inches, 53 lbs;
+
+Linda's flight ticket is $264.

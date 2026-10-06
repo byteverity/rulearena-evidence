@@ -1,0 +1,8 @@
+Jessica is a Main Plus Class passenger flying from Phoenix to Helsinki with the following items:
+1. A backpack: 22 x 14 x 6 inches, 8 lbs;
+2. A backpack: 34 x 18 x 13 inches, 59 lbs;
+3. A luggage box: 42 x 16 x 17 inches, 53 lbs;
+4. A backpack: 52 x 25 x 28 inches, 61 lbs;
+5. A backpack: 40 x 21 x 17 inches, 53 lbs;
+
+Jessica's flight ticket is $230.

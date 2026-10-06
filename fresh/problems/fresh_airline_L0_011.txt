@@ -1,0 +1,8 @@
+Susan is a First Class passenger flying from Los Angeles to New Delhi with the following items:
+1. A backpack: 20 x 13 x 7 inches, 11 lbs;
+2. A luggage box: 36 x 19 x 16 inches, 52 lbs;
+3. A backpack: 37 x 14 x 13 inches, 66 lbs;
+4. A luggage box: 50 x 31 x 27 inches, 68 lbs;
+5. A backpack: 35 x 23 x 11 inches, 55 lbs;
+
+Susan's flight ticket is $594.

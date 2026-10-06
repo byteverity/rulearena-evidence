@@ -1,0 +1,11 @@
+Robert is a Main Cabin Class passenger flying from Atlanta to New Delhi with the following items:
+1. A backpack: 21 x 14 x 8 inches, 10 lbs;
+2. A luggage box: 45 x 28 x 19 inches, 84 lbs;
+3. A luggage box: 33 x 18 x 14 inches, 99 lbs;
+4. A luggage box: 48 x 34 x 28 inches, 51 lbs;
+5. A backpack: 35 x 17 x 13 inches, 52 lbs;
+6. A luggage box: 49 x 29 x 26 inches, 65 lbs;
+7. A backpack: 38 x 13 x 14 inches, 74 lbs;
+8. A backpack: 35 x 17 x 13 inches, 53 lbs;
+
+Robert's flight ticket is $426.

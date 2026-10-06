@@ -1,0 +1,6 @@
+Michael is a Main Cabin Class passenger flying from Los Angeles to Havana with the following items:
+1. A backpack: 18 x 14 x 6 inches, 12 lbs;
+2. A backpack: 52 x 34 x 29 inches, 64 lbs;
+3. A backpack: 43 x 22 x 18 inches, 57 lbs;
+
+Michael's flight ticket is $178.

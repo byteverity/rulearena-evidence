@@ -1,0 +1,8 @@
+Patricia is a Main Plus Class passenger flying from Incheon to Austin with the following items:
+1. A backpack: 19 x 13 x 8 inches, 7 lbs;
+2. A luggage box: 46 x 34 x 21 inches, 51 lbs;
+3. A luggage box: 39 x 18 x 12 inches, 81 lbs;
+4. A backpack: 52 x 32 x 23 inches, 58 lbs;
+5. A luggage box: 34 x 20 x 9 inches, 69 lbs;
+
+Patricia's flight ticket is $398.

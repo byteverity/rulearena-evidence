@@ -1,0 +1,8 @@
+William is a Main Cabin Class passenger flying from Sydney to Charlotte with the following items:
+1. A backpack: 18 x 11 x 9 inches, 7 lbs;
+2. A luggage box: 35 x 18 x 11 inches, 52 lbs;
+3. A backpack: 37 x 18 x 10 inches, 57 lbs;
+4. A luggage box: 44 x 31 x 23 inches, 67 lbs;
+5. A backpack: 35 x 21 x 9 inches, 52 lbs;
+
+William's flight ticket is $595.

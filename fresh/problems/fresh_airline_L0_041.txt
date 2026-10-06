@@ -1,0 +1,8 @@
+Jessica is a Premium Economy Class passenger flying from Orlando to New Orleans with the following items:
+1. A backpack: 22 x 12 x 8 inches, 9 lbs;
+2. A backpack: 34 x 16 x 13 inches, 52 lbs;
+3. A backpack: 37 x 18 x 10 inches, 69 lbs;
+4. A backpack: 42 x 22 x 21 inches, 53 lbs;
+5. A luggage box: 46 x 23 x 24 inches, 52 lbs;
+
+Jessica's flight ticket is $115.

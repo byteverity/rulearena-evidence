@@ -1,0 +1,8 @@
+Susan is a Premium Economy Class passenger flying from Boston to Beijing with the following items:
+1. A backpack: 20 x 11 x 9 inches, 5 lbs;
+2. A backpack: 43 x 20 x 19 inches, 95 lbs;
+3. A backpack: 40 x 22 x 16 inches, 91 lbs;
+4. A luggage box: 43 x 28 x 19 inches, 52 lbs;
+5. A luggage box: 52 x 32 x 26 inches, 99 lbs;
+
+Susan's flight ticket is $1096.

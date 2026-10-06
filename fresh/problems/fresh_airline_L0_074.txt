@@ -1,0 +1,8 @@
+John is a Main Plus Class passenger flying from New York to Boston with the following items:
+1. A backpack: 22 x 13 x 8 inches, 6 lbs;
+2. A luggage box: 33 x 17 x 14 inches, 69 lbs;
+3. A luggage box: 34 x 20 x 9 inches, 57 lbs;
+4. A luggage box: 35 x 18 x 10 inches, 95 lbs;
+5. A luggage box: 34 x 20 x 11 inches, 65 lbs;
+
+John's flight ticket is $173.

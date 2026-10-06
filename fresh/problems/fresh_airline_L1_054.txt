@@ -1,0 +1,11 @@
+Elizabeth is a First Class passenger flying from Denver to Osaka with the following items:
+1. A backpack: 18 x 14 x 6 inches, 11 lbs;
+2. A backpack: 43 x 20 x 16 inches, 64 lbs;
+3. A backpack: 33 x 20 x 10 inches, 52 lbs;
+4. A luggage box: 33 x 19 x 11 inches, 52 lbs;
+5. A luggage box: 46 x 28 x 26 inches, 74 lbs;
+6. A backpack: 35 x 19 x 11 inches, 53 lbs;
+7. A backpack: 33 x 20 x 11 inches, 52 lbs;
+8. A luggage box: 35 x 20 x 9 inches, 73 lbs;
+
+Elizabeth's flight ticket is $594.

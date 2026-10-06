@@ -1,0 +1,11 @@
+John is a Business Class passenger flying from Denver to Houston with the following items:
+1. A backpack: 21 x 13 x 6 inches, 10 lbs;
+2. A backpack: 34 x 17 x 12 inches, 68 lbs;
+3. A backpack: 35 x 15 x 13 inches, 53 lbs;
+4. A luggage box: 38 x 16 x 10 inches, 95 lbs;
+5. A backpack: 35 x 16 x 12 inches, 51 lbs;
+6. A backpack: 46 x 23 x 18 inches, 84 lbs;
+7. A backpack: 38 x 18 x 9 inches, 52 lbs;
+8. A backpack: 37 x 15 x 12 inches, 53 lbs;
+
+John's flight ticket is $285.

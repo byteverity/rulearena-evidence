@@ -1,0 +1,8 @@
+Jennifer is a Premium Economy Class passenger flying from Nagoya to New York with the following items:
+1. A backpack: 20 x 13 x 8 inches, 5 lbs;
+2. A backpack: 41 x 25 x 18 inches, 94 lbs;
+3. A luggage box: 35 x 22 x 11 inches, 51 lbs;
+4. A backpack: 39 x 25 x 17 inches, 51 lbs;
+5. A backpack: 34 x 21 x 9 inches, 53 lbs;
+
+Jennifer's flight ticket is $388.

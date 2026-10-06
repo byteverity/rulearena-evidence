@@ -1,0 +1,8 @@
+Jennifer is a Main Cabin Class passenger flying from Philadelphia to Busan with the following items:
+1. A backpack: 20 x 13 x 8 inches, 10 lbs;
+2. A backpack: 48 x 27 x 24 inches, 89 lbs;
+3. A luggage box: 37 x 15 x 11 inches, 93 lbs;
+4. A luggage box: 37 x 23 x 16 inches, 51 lbs;
+5. A luggage box: 36 x 14 x 13 inches, 53 lbs;
+
+Jennifer's flight ticket is $327.

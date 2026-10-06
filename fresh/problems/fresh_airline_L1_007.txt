@@ -1,0 +1,11 @@
+Patricia is a First Class passenger flying from Stockholm to Dallas with the following items:
+1. A backpack: 21 x 12 x 8 inches, 11 lbs;
+2. A luggage box: 46 x 35 x 23 inches, 64 lbs;
+3. A luggage box: 35 x 18 x 13 inches, 51 lbs;
+4. A luggage box: 36 x 18 x 12 inches, 70 lbs;
+5. A luggage box: 43 x 18 x 19 inches, 67 lbs;
+6. A backpack: 33 x 16 x 14 inches, 51 lbs;
+7. A luggage box: 42 x 20 x 18 inches, 52 lbs;
+8. A luggage box: 36 x 18 x 9 inches, 63 lbs;
+
+Patricia's flight ticket is $634.

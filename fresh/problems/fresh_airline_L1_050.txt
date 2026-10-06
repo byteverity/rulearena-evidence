@@ -1,0 +1,11 @@
+William is a Business Class passenger flying from Houston to Melbourne with the following items:
+1. A backpack: 21 x 13 x 7 inches, 10 lbs;
+2. A luggage box: 34 x 18 x 12 inches, 57 lbs;
+3. A backpack: 38 x 13 x 14 inches, 64 lbs;
+4. A luggage box: 47 x 28 x 21 inches, 60 lbs;
+5. A luggage box: 50 x 33 x 30 inches, 53 lbs;
+6. A luggage box: 51 x 24 x 27 inches, 66 lbs;
+7. A backpack: 37 x 19 x 9 inches, 53 lbs;
+8. A luggage box: 37 x 16 x 11 inches, 56 lbs;
+
+William's flight ticket is $465.

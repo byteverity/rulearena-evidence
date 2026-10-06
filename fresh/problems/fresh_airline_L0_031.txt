@@ -1,0 +1,8 @@
+Sarah is a Basic Economy Class passenger flying from Salt Lake City to Minneapolis with the following items:
+1. A backpack: 20 x 13 x 8 inches, 6 lbs;
+2. A backpack: 35 x 17 x 12 inches, 100 lbs;
+3. A backpack: 34 x 21 x 9 inches, 71 lbs;
+4. A backpack: 34 x 19 x 11 inches, 55 lbs;
+5. A luggage box: 42 x 23 x 18 inches, 81 lbs;
+
+Sarah's flight ticket is $172.

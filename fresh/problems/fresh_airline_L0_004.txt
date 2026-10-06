@@ -1,0 +1,8 @@
+Michael is a Business Class passenger flying from Orlando to Seoul with the following items:
+1. A backpack: 18 x 12 x 9 inches, 5 lbs;
+2. A luggage box: 34 x 20 x 11 inches, 51 lbs;
+3. A luggage box: 38 x 13 x 14 inches, 52 lbs;
+4. A luggage box: 38 x 14 x 12 inches, 55 lbs;
+5. A luggage box: 38 x 14 x 12 inches, 51 lbs;
+
+Michael's flight ticket is $512.

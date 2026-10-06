@@ -1,0 +1,9 @@
+Daniel is a Business Class passenger flying from Salt Lake City to Mexico City with the following items:
+1. A backpack: 22 x 12 x 6 inches, 11 lbs;
+2. A luggage box: 37 x 17 x 10 inches, 66 lbs;
+3. A luggage box: 33 x 19 x 12 inches, 97 lbs;
+4. A luggage box: 41 x 22 x 19 inches, 56 lbs;
+5. A backpack: 36 x 24 x 14 inches, 81 lbs;
+6. A backpack: 46 x 31 x 20 inches, 52 lbs;
+
+Daniel's flight ticket is $83.

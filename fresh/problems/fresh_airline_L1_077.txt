@@ -1,0 +1,11 @@
+Patricia is a Premium Economy Class passenger flying from Los Angeles to Boston with the following items:
+1. A backpack: 20 x 12 x 9 inches, 9 lbs;
+2. A luggage box: 35 x 16 x 13 inches, 60 lbs;
+3. A backpack: 50 x 34 x 31 inches, 52 lbs;
+4. A backpack: 37 x 20 x 18 inches, 53 lbs;
+5. A luggage box: 38 x 14 x 13 inches, 95 lbs;
+6. A luggage box: 38 x 22 x 16 inches, 53 lbs;
+7. A luggage box: 38 x 17 x 10 inches, 75 lbs;
+8. A luggage box: 47 x 33 x 26 inches, 53 lbs;
+
+Patricia's flight ticket is $202.

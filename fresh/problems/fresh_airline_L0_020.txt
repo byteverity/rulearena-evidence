@@ -1,0 +1,8 @@
+Karen is a First Class passenger flying from Chicago to Los Angeles with the following items:
+1. A backpack: 19 x 13 x 6 inches, 11 lbs;
+2. A luggage box: 33 x 17 x 14 inches, 68 lbs;
+3. A luggage box: 41 x 30 x 17 inches, 66 lbs;
+4. A backpack: 47 x 22 x 23 inches, 95 lbs;
+5. A luggage box: 41 x 28 x 19 inches, 74 lbs;
+
+Karen's flight ticket is $172.

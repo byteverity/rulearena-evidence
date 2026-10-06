@@ -1,0 +1,11 @@
+Elizabeth is a Basic Economy Class passenger flying from Tokyo to Atlanta with the following items:
+1. A backpack: 21 x 14 x 9 inches, 8 lbs;
+2. A luggage box: 43 x 28 x 21 inches, 60 lbs;
+3. A luggage box: 52 x 31 x 30 inches, 98 lbs;
+4. A backpack: 51 x 32 x 23 inches, 85 lbs;
+5. A luggage box: 35 x 18 x 11 inches, 58 lbs;
+6. A luggage box: 37 x 23 x 16 inches, 69 lbs;
+7. A backpack: 43 x 20 x 16 inches, 90 lbs;
+8. A backpack: 37 x 20 x 10 inches, 67 lbs;
+
+Elizabeth's flight ticket is $457.

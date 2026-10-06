@@ -1,0 +1,8 @@
+Susan is a Basic Economy Class passenger flying from Tokyo to Phoenix with the following items:
+1. A backpack: 22 x 11 x 8 inches, 10 lbs;
+2. A backpack: 50 x 30 x 28 inches, 53 lbs;
+3. A luggage box: 49 x 37 x 26 inches, 75 lbs;
+4. A backpack: 35 x 15 x 14 inches, 53 lbs;
+5. A luggage box: 50 x 32 x 29 inches, 58 lbs;
+
+Susan's flight ticket is $384.

@@ -1,0 +1,11 @@
+Thomas is a First Class passenger flying from Minneapolis to Bogotá with the following items:
+1. A backpack: 22 x 14 x 8 inches, 8 lbs;
+2. A luggage box: 43 x 25 x 22 inches, 51 lbs;
+3. A luggage box: 50 x 23 x 26 inches, 64 lbs;
+4. A luggage box: 33 x 16 x 14 inches, 51 lbs;
+5. A backpack: 36 x 14 x 14 inches, 97 lbs;
+6. A backpack: 44 x 27 x 19 inches, 51 lbs;
+7. A luggage box: 33 x 17 x 14 inches, 59 lbs;
+8. A luggage box: 55 x 29 x 30 inches, 91 lbs;
+
+Thomas's flight ticket is $228.

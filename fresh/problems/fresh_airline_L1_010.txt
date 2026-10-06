@@ -1,0 +1,11 @@
+Elizabeth is a First Class passenger flying from Jerusalem to Sacramento with the following items:
+1. A backpack: 20 x 14 x 8 inches, 5 lbs;
+2. A luggage box: 40 x 25 x 14 inches, 68 lbs;
+3. A luggage box: 38 x 16 x 10 inches, 60 lbs;
+4. A backpack: 53 x 32 x 29 inches, 51 lbs;
+5. A backpack: 51 x 29 x 23 inches, 61 lbs;
+6. A luggage box: 37 x 25 x 15 inches, 57 lbs;
+7. A luggage box: 36 x 21 x 17 inches, 58 lbs;
+8. A backpack: 33 x 19 x 13 inches, 51 lbs;
+
+Elizabeth's flight ticket is $1076.

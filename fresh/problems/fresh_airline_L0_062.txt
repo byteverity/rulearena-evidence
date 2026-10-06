@@ -1,0 +1,8 @@
+Elizabeth is a Main Plus Class passenger flying from Houston to London with the following items:
+1. A backpack: 20 x 11 x 9 inches, 12 lbs;
+2. A backpack: 44 x 26 x 17 inches, 53 lbs;
+3. A backpack: 55 x 30 x 29 inches, 51 lbs;
+4. A luggage box: 37 x 21 x 14 inches, 52 lbs;
+5. A luggage box: 50 x 31 x 24 inches, 67 lbs;
+
+Elizabeth's flight ticket is $194.

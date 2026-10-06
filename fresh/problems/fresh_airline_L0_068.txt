@@ -1,0 +1,8 @@
+David is a First Class passenger flying from Mexico City to Seattle with the following items:
+1. A backpack: 21 x 11 x 8 inches, 11 lbs;
+2. A backpack: 38 x 16 x 11 inches, 59 lbs;
+3. A backpack: 35 x 19 x 9 inches, 64 lbs;
+4. A backpack: 35 x 16 x 14 inches, 55 lbs;
+5. A backpack: 46 x 32 x 21 inches, 51 lbs;
+
+David's flight ticket is $158.

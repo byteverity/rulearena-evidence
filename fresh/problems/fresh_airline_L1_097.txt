@@ -1,0 +1,11 @@
+Linda is a Main Cabin Class passenger flying from Salt Lake City to Amsterdam with the following items:
+1. A backpack: 19 x 12 x 6 inches, 5 lbs;
+2. A luggage box: 48 x 24 x 25 inches, 66 lbs;
+3. A backpack: 38 x 13 x 13 inches, 58 lbs;
+4. A backpack: 44 x 22 x 15 inches, 67 lbs;
+5. A luggage box: 34 x 17 x 12 inches, 52 lbs;
+6. A backpack: 38 x 13 x 12 inches, 51 lbs;
+7. A backpack: 33 x 20 x 11 inches, 51 lbs;
+8. A luggage box: 53 x 30 x 26 inches, 56 lbs;
+
+Linda's flight ticket is $559.

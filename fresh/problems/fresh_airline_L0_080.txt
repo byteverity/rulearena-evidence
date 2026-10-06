@@ -1,0 +1,8 @@
+David is a Main Plus Class passenger flying from Denver to Busan with the following items:
+1. A backpack: 22 x 14 x 7 inches, 10 lbs;
+2. A backpack: 36 x 13 x 14 inches, 73 lbs;
+3. A luggage box: 36 x 13 x 14 inches, 51 lbs;
+4. A luggage box: 36 x 25 x 12 inches, 62 lbs;
+5. A backpack: 43 x 24 x 18 inches, 62 lbs;
+
+David's flight ticket is $581.

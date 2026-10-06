@@ -1,0 +1,8 @@
+Joseph is a First Class passenger flying from Phoenix to Melbourne with the following items:
+1. A backpack: 20 x 12 x 7 inches, 7 lbs;
+2. A backpack: 38 x 11 x 14 inches, 52 lbs;
+3. A backpack: 38 x 14 x 13 inches, 64 lbs;
+4. A luggage box: 53 x 32 x 28 inches, 52 lbs;
+5. A luggage box: 46 x 35 x 22 inches, 69 lbs;
+
+Joseph's flight ticket is $492.

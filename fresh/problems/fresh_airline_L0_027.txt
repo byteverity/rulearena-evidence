@@ -1,0 +1,8 @@
+Mary is a Basic Economy Class passenger flying from Zurich to Portland with the following items:
+1. A backpack: 18 x 12 x 7 inches, 8 lbs;
+2. A backpack: 37 x 14 x 14 inches, 58 lbs;
+3. A backpack: 46 x 25 x 21 inches, 52 lbs;
+4. A luggage box: 38 x 28 x 14 inches, 60 lbs;
+5. A luggage box: 47 x 35 x 22 inches, 51 lbs;
+
+Mary's flight ticket is $667.

@@ -1,0 +1,11 @@
+domain    side  accuracy        L0     L1     L2
+airline   A     209/300 = 0.697   0.760  0.730  0.600
+airline   B     209/300 = 0.697   0.760  0.730  0.600
+tax       A     257/300 = 0.857   0.970  0.850  0.750
+tax       B     257/300 = 0.857   0.970  0.850  0.750
+nba       A     151/216 = 0.699   0.802  0.697  0.522
+nba       B     150/216 = 0.694   0.802  0.685  0.522
+PRIMARY (solver A) overall: 617/816 = 0.756
+airline: agreement subset 209/300; disagreement subset A 0/0, B 0/0
+tax: agreement subset 257/300; disagreement subset A 0/0, B 0/0
+nba: agreement subset 148/210; disagreement subset A 3/6, B 2/6

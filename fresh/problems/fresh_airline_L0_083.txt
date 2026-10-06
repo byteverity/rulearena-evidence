@@ -1,0 +1,8 @@
+William is a Main Cabin Class passenger flying from Los Angeles to Xiamen with the following items:
+1. A backpack: 22 x 14 x 7 inches, 5 lbs;
+2. A luggage box: 39 x 21 x 18 inches, 100 lbs;
+3. A backpack: 37 x 18 x 14 inches, 52 lbs;
+4. A backpack: 51 x 29 x 26 inches, 80 lbs;
+5. A backpack: 43 x 32 x 20 inches, 89 lbs;
+
+William's flight ticket is $636.

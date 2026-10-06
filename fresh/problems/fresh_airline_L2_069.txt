@@ -1,0 +1,14 @@
+Linda is a Business Class passenger flying from Lima to Minneapolis with the following items:
+1. A backpack: 22 x 11 x 9 inches, 7 lbs;
+2. A luggage box: 34 x 18 x 13 inches, 52 lbs;
+3. A backpack: 50 x 23 x 26 inches, 69 lbs;
+4. A luggage box: 41 x 25 x 19 inches, 74 lbs;
+5. A backpack: 36 x 18 x 11 inches, 56 lbs;
+6. A luggage box: 37 x 15 x 11 inches, 58 lbs;
+7. A luggage box: 41 x 26 x 22 inches, 80 lbs;
+8. A luggage box: 39 x 18 x 17 inches, 85 lbs;
+9. A backpack: 33 x 20 x 11 inches, 73 lbs;
+10. A backpack: 35 x 17 x 13 inches, 71 lbs;
+11. A backpack: 34 x 16 x 13 inches, 51 lbs;
+
+Linda's flight ticket is $696.

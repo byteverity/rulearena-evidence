@@ -1,0 +1,8 @@
+Daniel is a Premium Economy Class passenger flying from Shanghai to Miami with the following items:
+1. A backpack: 22 x 11 x 8 inches, 8 lbs;
+2. A luggage box: 37 x 18 x 11 inches, 53 lbs;
+3. A backpack: 45 x 26 x 21 inches, 82 lbs;
+4. A backpack: 36 x 18 x 9 inches, 77 lbs;
+5. A luggage box: 48 x 27 x 26 inches, 53 lbs;
+
+Daniel's flight ticket is $1163.

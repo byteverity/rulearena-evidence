@@ -1,0 +1,8 @@
+Jennifer is a First Class passenger flying from New Orleans to Boston with the following items:
+1. A backpack: 21 x 13 x 6 inches, 8 lbs;
+2. A backpack: 41 x 16 x 18 inches, 74 lbs;
+3. A backpack: 39 x 16 x 15 inches, 52 lbs;
+4. A luggage box: 37 x 18 x 17 inches, 68 lbs;
+5. A luggage box: 39 x 17 x 15 inches, 80 lbs;
+
+Jennifer's flight ticket is $40.

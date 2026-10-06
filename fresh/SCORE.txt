@@ -1,0 +1,4 @@
+FRESH airline set (300 new problems, RuleArena generator, seeds 20261006xxx, scored once)
+  A listed order (as scored)                 228/300 = 0.760   L0 0.83 L1 0.77 L2 0.68
+  A + customer-favourable policy [PRIMARY]   271/300 = 0.903   L0 0.90 L1 0.93 L2 0.88
+  policy fired on 43 fresh problems

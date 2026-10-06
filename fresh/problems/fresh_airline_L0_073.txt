@@ -1,0 +1,8 @@
+Charles is a Main Cabin Class passenger flying from Doha to Los Angeles with the following items:
+1. A backpack: 18 x 13 x 6 inches, 6 lbs;
+2. A backpack: 37 x 13 x 14 inches, 60 lbs;
+3. A luggage box: 50 x 33 x 23 inches, 52 lbs;
+4. A backpack: 50 x 31 x 30 inches, 52 lbs;
+5. A luggage box: 42 x 20 x 18 inches, 56 lbs;
+
+Charles's flight ticket is $968.

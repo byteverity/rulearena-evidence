@@ -1,0 +1,11 @@
+Thomas is a Premium Economy Class passenger flying from Melbourne to Portland with the following items:
+1. A backpack: 19 x 14 x 8 inches, 7 lbs;
+2. A backpack: 36 x 16 x 13 inches, 53 lbs;
+3. A backpack: 43 x 29 x 19 inches, 60 lbs;
+4. A luggage box: 45 x 30 x 24 inches, 51 lbs;
+5. A backpack: 35 x 17 x 12 inches, 53 lbs;
+6. A backpack: 53 x 34 x 25 inches, 53 lbs;
+7. A backpack: 42 x 26 x 22 inches, 53 lbs;
+8. A luggage box: 37 x 18 x 10 inches, 51 lbs;
+
+Thomas's flight ticket is $913.

@@ -1,0 +1,8 @@
+Susan is a Business Class passenger flying from Denver to San Francisco with the following items:
+1. A backpack: 18 x 14 x 9 inches, 12 lbs;
+2. A luggage box: 36 x 19 x 10 inches, 53 lbs;
+3. A backpack: 45 x 23 x 18 inches, 69 lbs;
+4. A luggage box: 39 x 15 x 14 inches, 51 lbs;
+5. A backpack: 39 x 22 x 17 inches, 67 lbs;
+
+Susan's flight ticket is $283.

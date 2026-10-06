@@ -1,0 +1,8 @@
+Sarah is a First Class passenger flying from New York to Guangzhou with the following items:
+1. A backpack: 20 x 13 x 9 inches, 12 lbs;
+2. A luggage box: 47 x 24 x 20 inches, 51 lbs;
+3. A luggage box: 41 x 20 x 12 inches, 89 lbs;
+4. A luggage box: 37 x 14 x 12 inches, 51 lbs;
+5. A luggage box: 39 x 13 x 15 inches, 89 lbs;
+
+Sarah's flight ticket is $1414.

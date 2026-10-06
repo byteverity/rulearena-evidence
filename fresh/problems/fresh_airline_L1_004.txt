@@ -1,0 +1,11 @@
+David is a Main Cabin Class passenger flying from San Francisco to Wuhan with the following items:
+1. A backpack: 19 x 11 x 9 inches, 8 lbs;
+2. A luggage box: 35 x 16 x 12 inches, 59 lbs;
+3. A luggage box: 47 x 27 x 23 inches, 52 lbs;
+4. A backpack: 36 x 13 x 14 inches, 97 lbs;
+5. A backpack: 33 x 19 x 13 inches, 78 lbs;
+6. A luggage box: 52 x 32 x 31 inches, 51 lbs;
+7. A luggage box: 37 x 21 x 18 inches, 52 lbs;
+8. A luggage box: 33 x 18 x 13 inches, 100 lbs;
+
+David's flight ticket is $1458.

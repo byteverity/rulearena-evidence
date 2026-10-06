@@ -1,0 +1,14 @@
+Robert is a Main Plus Class passenger flying from Phoenix to Minneapolis with the following items:
+1. A backpack: 20 x 12 x 9 inches, 9 lbs;
+2. A backpack: 45 x 29 x 24 inches, 92 lbs;
+3. A luggage box: 38 x 11 x 14 inches, 71 lbs;
+4. A backpack: 36 x 17 x 11 inches, 52 lbs;
+5. A luggage box: 42 x 25 x 22 inches, 75 lbs;
+6. A backpack: 35 x 15 x 13 inches, 84 lbs;
+7. A backpack: 33 x 18 x 12 inches, 68 lbs;
+8. A backpack: 47 x 28 x 22 inches, 61 lbs;
+9. A luggage box: 36 x 22 x 13 inches, 87 lbs;
+10. A luggage box: 50 x 32 x 28 inches, 62 lbs;
+11. A backpack: 34 x 18 x 12 inches, 82 lbs;
+
+Robert's flight ticket is $129.

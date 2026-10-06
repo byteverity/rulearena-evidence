@@ -1,0 +1,8 @@
+Jennifer is a Main Cabin Class passenger flying from Beijing to Orlando with the following items:
+1. A backpack: 18 x 11 x 7 inches, 11 lbs;
+2. A backpack: 53 x 32 x 27 inches, 55 lbs;
+3. A backpack: 35 x 20 x 9 inches, 88 lbs;
+4. A luggage box: 37 x 17 x 11 inches, 62 lbs;
+5. A luggage box: 54 x 28 x 29 inches, 52 lbs;
+
+Jennifer's flight ticket is $962.

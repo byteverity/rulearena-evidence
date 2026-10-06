@@ -1,0 +1,8 @@
+Linda is a Main Cabin Class passenger flying from Minneapolis to Berlin with the following items:
+1. A backpack: 20 x 11 x 9 inches, 5 lbs;
+2. A backpack: 38 x 25 x 14 inches, 55 lbs;
+3. A backpack: 35 x 15 x 14 inches, 69 lbs;
+4. A backpack: 45 x 29 x 23 inches, 53 lbs;
+5. A backpack: 49 x 35 x 23 inches, 60 lbs;
+
+Linda's flight ticket is $465.

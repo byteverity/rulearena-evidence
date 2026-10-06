@@ -1,0 +1,8 @@
+Jennifer is a Business Class passenger flying from Seattle to New York with the following items:
+1. A backpack: 21 x 12 x 7 inches, 7 lbs;
+2. A backpack: 33 x 19 x 12 inches, 59 lbs;
+3. A backpack: 54 x 31 x 28 inches, 63 lbs;
+4. A luggage box: 36 x 17 x 12 inches, 53 lbs;
+5. A backpack: 45 x 31 x 24 inches, 64 lbs;
+
+Jennifer's flight ticket is $52.

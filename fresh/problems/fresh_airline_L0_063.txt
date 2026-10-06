@@ -1,0 +1,8 @@
+David is a Premium Economy Class passenger flying from Los Angeles to Berlin with the following items:
+1. A backpack: 19 x 14 x 7 inches, 7 lbs;
+2. A luggage box: 41 x 31 x 17 inches, 53 lbs;
+3. A backpack: 34 x 20 x 11 inches, 65 lbs;
+4. A luggage box: 38 x 17 x 14 inches, 52 lbs;
+5. A luggage box: 37 x 15 x 11 inches, 51 lbs;
+
+David's flight ticket is $340.

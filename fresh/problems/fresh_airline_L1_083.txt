@@ -1,0 +1,11 @@
+Mary is a Business Class passenger flying from Berlin to Austin with the following items:
+1. A backpack: 20 x 11 x 7 inches, 11 lbs;
+2. A luggage box: 33 x 23 x 9 inches, 53 lbs;
+3. A backpack: 37 x 16 x 10 inches, 69 lbs;
+4. A backpack: 48 x 34 x 24 inches, 55 lbs;
+5. A backpack: 33 x 16 x 14 inches, 53 lbs;
+6. A luggage box: 50 x 32 x 25 inches, 53 lbs;
+7. A backpack: 37 x 17 x 9 inches, 53 lbs;
+8. A backpack: 47 x 35 x 25 inches, 66 lbs;
+
+Mary's flight ticket is $669.

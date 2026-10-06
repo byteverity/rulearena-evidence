@@ -1,0 +1,14 @@
+Linda is a Main Cabin Class passenger flying from Xiamen to Atlanta with the following items:
+1. A backpack: 20 x 11 x 7 inches, 10 lbs;
+2. A luggage box: 43 x 21 x 14 inches, 51 lbs;
+3. A backpack: 37 x 20 x 11 inches, 60 lbs;
+4. A backpack: 34 x 22 x 9 inches, 95 lbs;
+5. A backpack: 50 x 33 x 27 inches, 64 lbs;
+6. A luggage box: 48 x 33 x 29 inches, 68 lbs;
+7. A backpack: 35 x 19 x 9 inches, 86 lbs;
+8. A luggage box: 40 x 22 x 18 inches, 64 lbs;
+9. A backpack: 43 x 17 x 18 inches, 54 lbs;
+10. A backpack: 36 x 14 x 13 inches, 52 lbs;
+11. A luggage box: 37 x 14 x 14 inches, 51 lbs;
+
+Linda's flight ticket is $1364.

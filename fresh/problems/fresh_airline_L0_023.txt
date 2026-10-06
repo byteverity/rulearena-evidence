@@ -1,0 +1,8 @@
+Joseph is a Main Cabin Class passenger flying from Los Angeles to Salt Lake City with the following items:
+1. A backpack: 22 x 14 x 8 inches, 8 lbs;
+2. A backpack: 33 x 20 x 10 inches, 53 lbs;
+3. A luggage box: 41 x 25 x 17 inches, 69 lbs;
+4. A luggage box: 36 x 15 x 12 inches, 52 lbs;
+5. A backpack: 42 x 17 x 17 inches, 59 lbs;
+
+Joseph's flight ticket is $89.

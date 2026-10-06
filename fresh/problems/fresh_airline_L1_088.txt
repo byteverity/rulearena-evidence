@@ -1,0 +1,11 @@
+Linda is a Business Class passenger flying from Mumbai to Charlotte with the following items:
+1. A backpack: 21 x 12 x 8 inches, 9 lbs;
+2. A luggage box: 39 x 14 x 14 inches, 67 lbs;
+3. A backpack: 44 x 28 x 18 inches, 67 lbs;
+4. A backpack: 48 x 27 x 27 inches, 94 lbs;
+5. A backpack: 48 x 26 x 26 inches, 91 lbs;
+6. A luggage box: 51 x 32 x 24 inches, 54 lbs;
+7. A luggage box: 34 x 19 x 11 inches, 53 lbs;
+8. A luggage box: 47 x 28 x 26 inches, 83 lbs;
+
+Linda's flight ticket is $673.

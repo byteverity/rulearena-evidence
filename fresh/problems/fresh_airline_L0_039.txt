@@ -1,0 +1,8 @@
+William is a First Class passenger flying from Los Angeles to Guangzhou with the following items:
+1. A backpack: 19 x 11 x 7 inches, 10 lbs;
+2. A luggage box: 43 x 28 x 24 inches, 58 lbs;
+3. A luggage box: 44 x 29 x 19 inches, 82 lbs;
+4. A backpack: 38 x 17 x 15 inches, 84 lbs;
+5. A backpack: 43 x 30 x 22 inches, 79 lbs;
+
+William's flight ticket is $1440.

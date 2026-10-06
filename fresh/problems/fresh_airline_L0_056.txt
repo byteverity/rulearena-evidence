@@ -1,0 +1,8 @@
+John is a Main Cabin Class passenger flying from Dallas to Chengdu with the following items:
+1. A backpack: 19 x 13 x 8 inches, 11 lbs;
+2. A backpack: 39 x 17 x 10 inches, 63 lbs;
+3. A backpack: 47 x 29 x 26 inches, 51 lbs;
+4. A backpack: 42 x 25 x 21 inches, 95 lbs;
+5. A luggage box: 37 x 14 x 13 inches, 51 lbs;
+
+John's flight ticket is $557.

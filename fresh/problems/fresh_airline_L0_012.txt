@@ -1,0 +1,8 @@
+Jessica is a Main Cabin Class passenger flying from Seattle to Helsinki with the following items:
+1. A backpack: 19 x 12 x 9 inches, 10 lbs;
+2. A backpack: 43 x 22 x 21 inches, 59 lbs;
+3. A luggage box: 37 x 15 x 11 inches, 53 lbs;
+4. A backpack: 33 x 21 x 9 inches, 57 lbs;
+5. A backpack: 47 x 25 x 22 inches, 52 lbs;
+
+Jessica's flight ticket is $561.

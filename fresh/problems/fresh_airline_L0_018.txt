@@ -1,0 +1,8 @@
+Daniel is a Main Cabin Class passenger flying from Nagoya to Minneapolis with the following items:
+1. A backpack: 22 x 14 x 6 inches, 5 lbs;
+2. A backpack: 35 x 17 x 12 inches, 70 lbs;
+3. A backpack: 51 x 33 x 28 inches, 78 lbs;
+4. A luggage box: 33 x 21 x 9 inches, 52 lbs;
+5. A luggage box: 34 x 20 x 9 inches, 52 lbs;
+
+Daniel's flight ticket is $391.

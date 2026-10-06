@@ -1,0 +1,8 @@
+John is a Main Plus Class passenger flying from Sacramento to Salt Lake City with the following items:
+1. A backpack: 21 x 14 x 9 inches, 9 lbs;
+2. A luggage box: 37 x 18 x 14 inches, 51 lbs;
+3. A backpack: 38 x 12 x 13 inches, 51 lbs;
+4. A luggage box: 46 x 24 x 19 inches, 59 lbs;
+5. A backpack: 43 x 21 x 16 inches, 88 lbs;
+
+John's flight ticket is $94.

@@ -1,0 +1,9 @@
+John is a Main Cabin Class passenger flying from Buenos Aires to New Orleans with the following items:
+1. A backpack: 22 x 14 x 8 inches, 7 lbs;
+2. A backpack: 38 x 18 x 9 inches, 52 lbs;
+3. A backpack: 35 x 16 x 14 inches, 61 lbs;
+4. A luggage box: 34 x 17 x 12 inches, 53 lbs;
+5. A backpack: 44 x 18 x 19 inches, 52 lbs;
+6. A backpack: 39 x 27 x 17 inches, 64 lbs;
+
+John's flight ticket is $1111.

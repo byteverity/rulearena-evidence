@@ -1,0 +1,8 @@
+Jessica is a Business Class passenger flying from Portland to Shanghai with the following items:
+1. A backpack: 18 x 13 x 6 inches, 10 lbs;
+2. A luggage box: 34 x 20 x 11 inches, 52 lbs;
+3. A backpack: 50 x 32 x 28 inches, 84 lbs;
+4. A luggage box: 40 x 24 x 21 inches, 52 lbs;
+5. A luggage box: 45 x 30 x 24 inches, 93 lbs;
+
+Jessica's flight ticket is $913.

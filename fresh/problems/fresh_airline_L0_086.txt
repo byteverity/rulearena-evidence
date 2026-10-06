@@ -1,0 +1,8 @@
+Elizabeth is a Main Plus Class passenger flying from Portland to Kyoto with the following items:
+1. A backpack: 20 x 14 x 6 inches, 10 lbs;
+2. A backpack: 33 x 17 x 13 inches, 51 lbs;
+3. A luggage box: 49 x 31 x 27 inches, 57 lbs;
+4. A backpack: 35 x 16 x 12 inches, 90 lbs;
+5. A backpack: 45 x 24 x 16 inches, 56 lbs;
+
+Elizabeth's flight ticket is $453.

@@ -1,0 +1,11 @@
+Michael is a Main Plus Class passenger flying from San Francisco to Austin with the following items:
+1. A backpack: 20 x 13 x 8 inches, 7 lbs;
+2. A luggage box: 49 x 30 x 22 inches, 53 lbs;
+3. A luggage box: 33 x 19 x 13 inches, 68 lbs;
+4. A luggage box: 43 x 26 x 18 inches, 90 lbs;
+5. A luggage box: 36 x 13 x 14 inches, 53 lbs;
+6. A backpack: 52 x 33 x 29 inches, 63 lbs;
+7. A luggage box: 52 x 36 x 25 inches, 53 lbs;
+8. A luggage box: 37 x 17 x 15 inches, 52 lbs;
+
+Michael's flight ticket is $73.

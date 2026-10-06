@@ -1,0 +1,11 @@
+Karen is a Basic Economy Class passenger flying from Portland to Copenhagen with the following items:
+1. A backpack: 19 x 14 x 9 inches, 5 lbs;
+2. A luggage box: 37 x 14 x 12 inches, 59 lbs;
+3. A luggage box: 38 x 28 x 14 inches, 60 lbs;
+4. A backpack: 38 x 14 x 13 inches, 68 lbs;
+5. A backpack: 37 x 13 x 13 inches, 61 lbs;
+6. A backpack: 33 x 17 x 14 inches, 52 lbs;
+7. A backpack: 37 x 17 x 9 inches, 52 lbs;
+8. A luggage box: 45 x 28 x 26 inches, 70 lbs;
+
+Karen's flight ticket is $155.

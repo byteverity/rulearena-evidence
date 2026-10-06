@@ -1,0 +1,8 @@
+Susan is a Main Cabin Class passenger flying from New York to Quito with the following items:
+1. A backpack: 19 x 14 x 6 inches, 7 lbs;
+2. A backpack: 36 x 16 x 11 inches, 54 lbs;
+3. A backpack: 34 x 17 x 14 inches, 52 lbs;
+4. A luggage box: 34 x 22 x 9 inches, 77 lbs;
+5. A luggage box: 37 x 14 x 14 inches, 64 lbs;
+
+Susan's flight ticket is $408.

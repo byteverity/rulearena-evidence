@@ -1,0 +1,8 @@
+Karen is a First Class passenger flying from Atlanta to Shenzhen with the following items:
+1. A backpack: 18 x 11 x 7 inches, 12 lbs;
+2. A luggage box: 47 x 24 x 25 inches, 53 lbs;
+3. A luggage box: 34 x 19 x 11 inches, 73 lbs;
+4. A luggage box: 48 x 24 x 23 inches, 69 lbs;
+5. A backpack: 36 x 14 x 14 inches, 53 lbs;
+
+Karen's flight ticket is $824.

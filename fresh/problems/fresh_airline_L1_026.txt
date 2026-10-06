@@ -1,0 +1,11 @@
+Elizabeth is a Main Cabin Class passenger flying from Toronto to Houston with the following items:
+1. A backpack: 19 x 13 x 7 inches, 6 lbs;
+2. A backpack: 38 x 14 x 12 inches, 74 lbs;
+3. A luggage box: 50 x 26 x 23 inches, 73 lbs;
+4. A backpack: 38 x 11 x 14 inches, 51 lbs;
+5. A backpack: 37 x 19 x 9 inches, 82 lbs;
+6. A backpack: 34 x 15 x 14 inches, 69 lbs;
+7. A backpack: 34 x 17 x 13 inches, 62 lbs;
+8. A backpack: 38 x 14 x 12 inches, 87 lbs;
+
+Elizabeth's flight ticket is $103.

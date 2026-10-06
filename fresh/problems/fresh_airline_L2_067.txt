@@ -1,0 +1,14 @@
+Susan is a Main Cabin Class passenger flying from Houston to Salt Lake City with the following items:
+1. A backpack: 22 x 13 x 7 inches, 9 lbs;
+2. A luggage box: 34 x 20 x 11 inches, 67 lbs;
+3. A backpack: 35 x 21 x 9 inches, 100 lbs;
+4. A backpack: 50 x 29 x 23 inches, 58 lbs;
+5. A backpack: 52 x 31 x 31 inches, 83 lbs;
+6. A backpack: 33 x 19 x 12 inches, 52 lbs;
+7. A luggage box: 36 x 19 x 15 inches, 82 lbs;
+8. A backpack: 47 x 30 x 21 inches, 81 lbs;
+9. A backpack: 41 x 18 x 15 inches, 51 lbs;
+10. A luggage box: 52 x 33 x 24 inches, 51 lbs;
+11. A luggage box: 34 x 21 x 10 inches, 65 lbs;
+
+Susan's flight ticket is $267.

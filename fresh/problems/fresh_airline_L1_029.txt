@@ -1,0 +1,11 @@
+David is a Business Class passenger flying from Phoenix to Miami with the following items:
+1. A backpack: 21 x 14 x 9 inches, 11 lbs;
+2. A luggage box: 36 x 17 x 10 inches, 73 lbs;
+3. A luggage box: 49 x 28 x 20 inches, 51 lbs;
+4. A backpack: 36 x 19 x 16 inches, 59 lbs;
+5. A luggage box: 50 x 34 x 26 inches, 85 lbs;
+6. A luggage box: 45 x 25 x 21 inches, 52 lbs;
+7. A luggage box: 43 x 24 x 20 inches, 57 lbs;
+8. A backpack: 38 x 16 x 9 inches, 51 lbs;
+
+David's flight ticket is $116.

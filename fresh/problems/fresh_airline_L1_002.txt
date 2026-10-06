@@ -1,0 +1,11 @@
+James is a Business Class passenger flying from Dallas to Chengdu with the following items:
+1. A backpack: 18 x 11 x 8 inches, 11 lbs;
+2. A luggage box: 34 x 19 x 10 inches, 91 lbs;
+3. A luggage box: 43 x 24 x 22 inches, 53 lbs;
+4. A luggage box: 38 x 16 x 9 inches, 68 lbs;
+5. A luggage box: 45 x 34 x 21 inches, 51 lbs;
+6. A luggage box: 44 x 26 x 19 inches, 52 lbs;
+7. A backpack: 33 x 20 x 10 inches, 55 lbs;
+8. A backpack: 40 x 18 x 14 inches, 61 lbs;
+
+James's flight ticket is $1003.

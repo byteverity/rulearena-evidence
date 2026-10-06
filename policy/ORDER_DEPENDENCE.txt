@@ -1,0 +1,4 @@
+POST-HOC analysis (after the one-shot score)
+misses: 91; order-dependent (label-free flag): 93; misses inside the flagged set: 73; misses outside: 18
+if the 'minimise fees over checked-bag order' reading were chosen (approximated by min over 8 orders): 245/300 = 0.817  [POST-HOC, LABEL-INFORMED CHOICE OF READING]
+abstain-on-unpinned view: answered 207 unpinned-free problems, correct 189/207

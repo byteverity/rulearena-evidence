@@ -1,0 +1,8 @@
+Michael is a Business Class passenger flying from Sacramento to Wuhan with the following items:
+1. A backpack: 21 x 13 x 9 inches, 10 lbs;
+2. A luggage box: 33 x 23 x 9 inches, 51 lbs;
+3. A luggage box: 36 x 17 x 11 inches, 90 lbs;
+4. A luggage box: 35 x 14 x 14 inches, 58 lbs;
+5. A backpack: 50 x 34 x 23 inches, 52 lbs;
+
+Michael's flight ticket is $738.

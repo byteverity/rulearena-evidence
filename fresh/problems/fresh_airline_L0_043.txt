@@ -1,0 +1,8 @@
+Susan is a Basic Economy Class passenger flying from San Francisco to Montreal with the following items:
+1. A backpack: 18 x 13 x 7 inches, 6 lbs;
+2. A backpack: 42 x 23 x 14 inches, 74 lbs;
+3. A backpack: 39 x 20 x 14 inches, 53 lbs;
+4. A backpack: 33 x 21 x 9 inches, 63 lbs;
+5. A backpack: 35 x 18 x 10 inches, 75 lbs;
+
+Susan's flight ticket is $323.

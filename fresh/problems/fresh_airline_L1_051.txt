@@ -1,0 +1,9 @@
+James is a Premium Economy Class passenger flying from Mexico City to Dallas with the following items:
+1. A backpack: 21 x 12 x 6 inches, 10 lbs;
+2. A luggage box: 44 x 25 x 21 inches, 84 lbs;
+3. A backpack: 53 x 30 x 27 inches, 89 lbs;
+4. A luggage box: 33 x 18 x 14 inches, 51 lbs;
+5. A backpack: 54 x 30 x 30 inches, 52 lbs;
+6. A backpack: 35 x 16 x 14 inches, 94 lbs;
+
+James's flight ticket is $184.

@@ -1,0 +1,11 @@
+Jennifer is a Premium Economy Class passenger flying from Brussels to Dallas with the following items:
+1. A backpack: 21 x 14 x 7 inches, 10 lbs;
+2. A luggage box: 36 x 14 x 14 inches, 52 lbs;
+3. A luggage box: 45 x 28 x 21 inches, 51 lbs;
+4. A backpack: 33 x 23 x 9 inches, 51 lbs;
+5. A luggage box: 39 x 17 x 12 inches, 51 lbs;
+6. A luggage box: 48 x 34 x 27 inches, 53 lbs;
+7. A luggage box: 38 x 14 x 14 inches, 60 lbs;
+8. A luggage box: 51 x 36 x 27 inches, 64 lbs;
+
+Jennifer's flight ticket is $639.

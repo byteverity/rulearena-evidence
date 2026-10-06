@@ -1,0 +1,8 @@
+Joseph is a First Class passenger flying from Austin to New Orleans with the following items:
+1. A backpack: 18 x 14 x 7 inches, 6 lbs;
+2. A luggage box: 47 x 30 x 22 inches, 51 lbs;
+3. A backpack: 34 x 17 x 14 inches, 54 lbs;
+4. A luggage box: 34 x 17 x 14 inches, 84 lbs;
+5. A backpack: 42 x 30 x 18 inches, 53 lbs;
+
+Joseph's flight ticket is $274.

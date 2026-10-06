@@ -1,0 +1,8 @@
+Jennifer is a Main Plus Class passenger flying from Atlanta to New Orleans with the following items:
+1. A backpack: 21 x 12 x 8 inches, 10 lbs;
+2. A backpack: 48 x 27 x 23 inches, 53 lbs;
+3. A backpack: 53 x 34 x 27 inches, 51 lbs;
+4. A luggage box: 45 x 30 x 19 inches, 51 lbs;
+5. A backpack: 39 x 21 x 16 inches, 61 lbs;
+
+Jennifer's flight ticket is $298.

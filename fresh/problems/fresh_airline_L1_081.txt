@@ -1,0 +1,11 @@
+David is a Main Cabin Class passenger flying from Washington D.C. to Ottawa with the following items:
+1. A backpack: 19 x 11 x 8 inches, 6 lbs;
+2. A backpack: 39 x 17 x 11 inches, 52 lbs;
+3. A backpack: 52 x 29 x 24 inches, 69 lbs;
+4. A luggage box: 46 x 35 x 22 inches, 92 lbs;
+5. A backpack: 53 x 30 x 31 inches, 91 lbs;
+6. A backpack: 37 x 14 x 12 inches, 55 lbs;
+7. A backpack: 34 x 18 x 12 inches, 53 lbs;
+8. A backpack: 37 x 19 x 9 inches, 85 lbs;
+
+David's flight ticket is $230.

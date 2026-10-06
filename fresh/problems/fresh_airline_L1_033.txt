@@ -1,0 +1,11 @@
+Patricia is a First Class passenger flying from Las Vegas to Miami with the following items:
+1. A backpack: 20 x 14 x 7 inches, 11 lbs;
+2. A luggage box: 38 x 14 x 12 inches, 53 lbs;
+3. A backpack: 37 x 17 x 9 inches, 53 lbs;
+4. A luggage box: 38 x 12 x 14 inches, 52 lbs;
+5. A luggage box: 50 x 34 x 23 inches, 52 lbs;
+6. A luggage box: 33 x 20 x 12 inches, 53 lbs;
+7. A backpack: 33 x 18 x 13 inches, 53 lbs;
+8. A backpack: 37 x 14 x 13 inches, 53 lbs;
+
+Patricia's flight ticket is $102.

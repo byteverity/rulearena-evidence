@@ -1,0 +1,11 @@
+William is a Business Class passenger flying from Seattle to Zurich with the following items:
+1. A backpack: 18 x 14 x 8 inches, 6 lbs;
+2. A backpack: 42 x 15 x 18 inches, 55 lbs;
+3. A luggage box: 35 x 15 x 13 inches, 52 lbs;
+4. A backpack: 37 x 15 x 13 inches, 61 lbs;
+5. A luggage box: 35 x 17 x 13 inches, 63 lbs;
+6. A backpack: 47 x 27 x 20 inches, 58 lbs;
+7. A backpack: 47 x 29 x 26 inches, 52 lbs;
+8. A luggage box: 34 x 16 x 14 inches, 62 lbs;
+
+William's flight ticket is $190.

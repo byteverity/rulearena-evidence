@@ -1,0 +1,8 @@
+Karen is a Business Class passenger flying from New Orleans to Houston with the following items:
+1. A backpack: 21 x 12 x 8 inches, 8 lbs;
+2. A luggage box: 38 x 15 x 12 inches, 64 lbs;
+3. A luggage box: 43 x 22 x 18 inches, 56 lbs;
+4. A luggage box: 38 x 15 x 11 inches, 52 lbs;
+5. A backpack: 33 x 19 x 13 inches, 93 lbs;
+
+Karen's flight ticket is $191.

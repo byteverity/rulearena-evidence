@@ -1,0 +1,9 @@
+John is a Premium Economy Class passenger flying from Charlotte to Mexico City with the following items:
+1. A backpack: 18 x 13 x 7 inches, 6 lbs;
+2. A backpack: 45 x 18 x 21 inches, 59 lbs;
+3. A backpack: 38 x 24 x 15 inches, 71 lbs;
+4. A backpack: 34 x 18 x 11 inches, 51 lbs;
+5. A backpack: 43 x 23 x 14 inches, 51 lbs;
+6. A backpack: 48 x 24 x 25 inches, 68 lbs;
+
+John's flight ticket is $153.

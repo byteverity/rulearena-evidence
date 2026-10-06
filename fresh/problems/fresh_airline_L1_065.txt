@@ -1,0 +1,11 @@
+Karen is a Main Cabin Class passenger flying from Orlando to Panama City with the following items:
+1. A backpack: 20 x 14 x 9 inches, 5 lbs;
+2. A luggage box: 46 x 20 x 21 inches, 75 lbs;
+3. A backpack: 43 x 21 x 17 inches, 52 lbs;
+4. A luggage box: 33 x 18 x 14 inches, 70 lbs;
+5. A luggage box: 48 x 34 x 24 inches, 96 lbs;
+6. A backpack: 38 x 18 x 9 inches, 63 lbs;
+7. A luggage box: 38 x 13 x 13 inches, 80 lbs;
+8. A luggage box: 36 x 15 x 12 inches, 71 lbs;
+
+Karen's flight ticket is $174.

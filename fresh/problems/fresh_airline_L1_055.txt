@@ -1,0 +1,11 @@
+Mary is a Business Class passenger flying from Shanghai to New Orleans with the following items:
+1. A backpack: 21 x 12 x 6 inches, 5 lbs;
+2. A luggage box: 40 x 25 x 16 inches, 88 lbs;
+3. A backpack: 36 x 17 x 10 inches, 52 lbs;
+4. A luggage box: 46 x 22 x 23 inches, 53 lbs;
+5. A backpack: 44 x 30 x 19 inches, 52 lbs;
+6. A luggage box: 37 x 18 x 9 inches, 86 lbs;
+7. A backpack: 34 x 19 x 12 inches, 53 lbs;
+8. A luggage box: 38 x 12 x 14 inches, 53 lbs;
+
+Mary's flight ticket is $1453.

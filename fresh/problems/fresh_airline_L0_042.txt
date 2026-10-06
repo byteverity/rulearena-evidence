@@ -1,0 +1,8 @@
+Emily is a Main Plus Class passenger flying from New Delhi to Miami with the following items:
+1. A backpack: 21 x 14 x 6 inches, 11 lbs;
+2. A luggage box: 36 x 24 x 11 inches, 72 lbs;
+3. A luggage box: 42 x 22 x 20 inches, 51 lbs;
+4. A backpack: 36 x 14 x 13 inches, 79 lbs;
+5. A luggage box: 40 x 21 x 17 inches, 52 lbs;
+
+Emily's flight ticket is $723.

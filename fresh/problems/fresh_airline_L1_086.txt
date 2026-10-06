@@ -1,0 +1,11 @@
+Karen is a Basic Economy Class passenger flying from Seattle to Washington D.C. with the following items:
+1. A backpack: 19 x 14 x 7 inches, 7 lbs;
+2. A luggage box: 48 x 28 x 20 inches, 100 lbs;
+3. A luggage box: 36 x 17 x 11 inches, 59 lbs;
+4. A luggage box: 35 x 18 x 11 inches, 57 lbs;
+5. A luggage box: 40 x 23 x 14 inches, 100 lbs;
+6. A luggage box: 34 x 21 x 10 inches, 67 lbs;
+7. A luggage box: 43 x 16 x 19 inches, 53 lbs;
+8. A backpack: 43 x 26 x 23 inches, 79 lbs;
+
+Karen's flight ticket is $113.

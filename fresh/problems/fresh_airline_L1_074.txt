@@ -1,0 +1,11 @@
+Robert is a Main Plus Class passenger flying from Orlando to Xiamen with the following items:
+1. A backpack: 18 x 13 x 6 inches, 12 lbs;
+2. A backpack: 37 x 13 x 14 inches, 92 lbs;
+3. A luggage box: 33 x 20 x 11 inches, 53 lbs;
+4. A backpack: 53 x 29 x 29 inches, 65 lbs;
+5. A backpack: 46 x 29 x 25 inches, 53 lbs;
+6. A luggage box: 50 x 29 x 22 inches, 61 lbs;
+7. A luggage box: 38 x 25 x 15 inches, 53 lbs;
+8. A luggage box: 43 x 31 x 21 inches, 99 lbs;
+
+Robert's flight ticket is $1166.

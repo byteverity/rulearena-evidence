@@ -1,0 +1,11 @@
+Karen is a First Class passenger flying from Dallas to Seattle with the following items:
+1. A backpack: 20 x 14 x 7 inches, 7 lbs;
+2. A luggage box: 37 x 16 x 10 inches, 62 lbs;
+3. A backpack: 35 x 16 x 13 inches, 77 lbs;
+4. A luggage box: 34 x 21 x 10 inches, 58 lbs;
+5. A backpack: 47 x 28 x 27 inches, 98 lbs;
+6. A backpack: 48 x 30 x 21 inches, 69 lbs;
+7. A backpack: 43 x 26 x 16 inches, 75 lbs;
+8. A luggage box: 39 x 12 x 15 inches, 56 lbs;
+
+Karen's flight ticket is $91.

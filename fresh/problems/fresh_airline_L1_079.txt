@@ -1,0 +1,11 @@
+Charles is a First Class passenger flying from Houston to Melbourne with the following items:
+1. A backpack: 22 x 12 x 6 inches, 12 lbs;
+2. A backpack: 54 x 34 x 27 inches, 51 lbs;
+3. A backpack: 38 x 13 x 12 inches, 60 lbs;
+4. A luggage box: 38 x 14 x 12 inches, 51 lbs;
+5. A backpack: 37 x 15 x 11 inches, 66 lbs;
+6. A backpack: 45 x 23 x 21 inches, 62 lbs;
+7. A backpack: 50 x 31 x 26 inches, 52 lbs;
+8. A luggage box: 36 x 17 x 11 inches, 56 lbs;
+
+Charles's flight ticket is $581.

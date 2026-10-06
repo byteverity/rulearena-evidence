@@ -1,0 +1,8 @@
+Elizabeth is a Main Plus Class passenger flying from Denver to Philadelphia with the following items:
+1. A backpack: 20 x 11 x 9 inches, 10 lbs;
+2. A luggage box: 34 x 18 x 12 inches, 53 lbs;
+3. A luggage box: 35 x 20 x 10 inches, 51 lbs;
+4. A luggage box: 33 x 18 x 13 inches, 52 lbs;
+5. A backpack: 34 x 20 x 9 inches, 53 lbs;
+
+Elizabeth's flight ticket is $53.

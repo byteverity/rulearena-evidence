@@ -1,0 +1,11 @@
+Michael is a Business Class passenger flying from Minneapolis to Shenzhen with the following items:
+1. A backpack: 22 x 14 x 8 inches, 11 lbs;
+2. A luggage box: 38 x 18 x 14 inches, 75 lbs;
+3. A luggage box: 54 x 33 x 28 inches, 81 lbs;
+4. A backpack: 40 x 24 x 15 inches, 52 lbs;
+5. A luggage box: 51 x 30 x 30 inches, 53 lbs;
+6. A backpack: 45 x 26 x 25 inches, 69 lbs;
+7. A backpack: 42 x 22 x 18 inches, 54 lbs;
+8. A luggage box: 44 x 21 x 18 inches, 83 lbs;
+
+Michael's flight ticket is $956.

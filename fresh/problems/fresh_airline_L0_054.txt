@@ -1,0 +1,8 @@
+William is a First Class passenger flying from Las Vegas to Panama City with the following items:
+1. A backpack: 18 x 13 x 9 inches, 8 lbs;
+2. A luggage box: 46 x 25 x 24 inches, 58 lbs;
+3. A luggage box: 33 x 18 x 13 inches, 99 lbs;
+4. A backpack: 36 x 21 x 16 inches, 52 lbs;
+5. A backpack: 42 x 24 x 21 inches, 69 lbs;
+
+William's flight ticket is $185.

@@ -1,0 +1,8 @@
+Thomas is a First Class passenger flying from Munich to Philadelphia with the following items:
+1. A backpack: 19 x 11 x 7 inches, 6 lbs;
+2. A backpack: 36 x 16 x 13 inches, 69 lbs;
+3. A luggage box: 45 x 28 x 24 inches, 52 lbs;
+4. A luggage box: 37 x 16 x 12 inches, 51 lbs;
+5. A backpack: 34 x 19 x 12 inches, 69 lbs;
+
+Thomas's flight ticket is $476.

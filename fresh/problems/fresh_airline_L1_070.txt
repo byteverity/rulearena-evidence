@@ -1,0 +1,11 @@
+Michael is a Main Plus Class passenger flying from Seoul to Phoenix with the following items:
+1. A backpack: 21 x 13 x 7 inches, 10 lbs;
+2. A luggage box: 36 x 14 x 13 inches, 52 lbs;
+3. A luggage box: 35 x 19 x 9 inches, 52 lbs;
+4. A luggage box: 36 x 15 x 14 inches, 87 lbs;
+5. A backpack: 33 x 19 x 12 inches, 77 lbs;
+6. A backpack: 38 x 11 x 14 inches, 79 lbs;
+7. A luggage box: 38 x 15 x 11 inches, 57 lbs;
+8. A luggage box: 36 x 19 x 10 inches, 94 lbs;
+
+Michael's flight ticket is $506.

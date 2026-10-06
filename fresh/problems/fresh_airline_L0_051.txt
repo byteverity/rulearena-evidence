@@ -1,0 +1,8 @@
+Susan is a Main Plus Class passenger flying from Philadelphia to São Paulo with the following items:
+1. A backpack: 20 x 14 x 7 inches, 11 lbs;
+2. A backpack: 50 x 27 x 24 inches, 78 lbs;
+3. A backpack: 37 x 16 x 10 inches, 84 lbs;
+4. A luggage box: 35 x 19 x 11 inches, 61 lbs;
+5. A luggage box: 36 x 18 x 10 inches, 59 lbs;
+
+Susan's flight ticket is $662.

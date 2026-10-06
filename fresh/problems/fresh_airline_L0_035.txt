@@ -1,0 +1,8 @@
+Elizabeth is a Main Cabin Class passenger flying from Doha to Minneapolis with the following items:
+1. A backpack: 21 x 14 x 7 inches, 5 lbs;
+2. A luggage box: 40 x 28 x 18 inches, 53 lbs;
+3. A backpack: 50 x 32 x 28 inches, 63 lbs;
+4. A luggage box: 40 x 16 x 13 inches, 56 lbs;
+5. A luggage box: 38 x 15 x 10 inches, 56 lbs;
+
+Elizabeth's flight ticket is $933.

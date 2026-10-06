@@ -1,0 +1,8 @@
+Michael is a Basic Economy Class passenger flying from Hong Kong to Philadelphia with the following items:
+1. A backpack: 19 x 11 x 6 inches, 8 lbs;
+2. A luggage box: 48 x 33 x 26 inches, 88 lbs;
+3. A backpack: 43 x 21 x 20 inches, 63 lbs;
+4. A backpack: 36 x 15 x 12 inches, 78 lbs;
+5. A luggage box: 42 x 26 x 17 inches, 58 lbs;
+
+Michael's flight ticket is $1462.

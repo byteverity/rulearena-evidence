@@ -1,0 +1,8 @@
+James is a Premium Economy Class passenger flying from Mumbai to Boston with the following items:
+1. A backpack: 18 x 11 x 7 inches, 12 lbs;
+2. A luggage box: 38 x 16 x 11 inches, 52 lbs;
+3. A backpack: 39 x 21 x 11 inches, 51 lbs;
+4. A backpack: 42 x 31 x 18 inches, 75 lbs;
+5. A backpack: 40 x 19 x 13 inches, 52 lbs;
+
+James's flight ticket is $628.

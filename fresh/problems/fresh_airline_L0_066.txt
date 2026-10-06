@@ -1,0 +1,8 @@
+Joseph is a First Class passenger flying from Washington D.C. to Stockholm with the following items:
+1. A backpack: 21 x 12 x 8 inches, 6 lbs;
+2. A luggage box: 47 x 23 x 22 inches, 51 lbs;
+3. A luggage box: 38 x 14 x 12 inches, 61 lbs;
+4. A luggage box: 50 x 28 x 24 inches, 53 lbs;
+5. A backpack: 51 x 33 x 25 inches, 51 lbs;
+
+Joseph's flight ticket is $598.

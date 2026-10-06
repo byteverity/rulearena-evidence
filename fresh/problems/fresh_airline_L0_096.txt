@@ -1,0 +1,8 @@
+Joseph is a Main Plus Class passenger flying from New Delhi to Austin with the following items:
+1. A backpack: 19 x 11 x 8 inches, 12 lbs;
+2. A backpack: 35 x 19 x 9 inches, 56 lbs;
+3. A luggage box: 40 x 28 x 18 inches, 76 lbs;
+4. A backpack: 35 x 17 x 12 inches, 51 lbs;
+5. A luggage box: 43 x 29 x 19 inches, 98 lbs;
+
+Joseph's flight ticket is $676.

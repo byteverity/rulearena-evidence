@@ -1,0 +1,8 @@
+Karen is a Main Cabin Class passenger flying from Sacramento to São Paulo with the following items:
+1. A backpack: 22 x 12 x 8 inches, 5 lbs;
+2. A backpack: 53 x 29 x 28 inches, 65 lbs;
+3. A luggage box: 34 x 19 x 11 inches, 69 lbs;
+4. A backpack: 35 x 21 x 14 inches, 68 lbs;
+5. A backpack: 48 x 25 x 21 inches, 52 lbs;
+
+Karen's flight ticket is $503.

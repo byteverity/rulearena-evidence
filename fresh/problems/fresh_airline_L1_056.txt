@@ -1,0 +1,11 @@
+Susan is a Main Plus Class passenger flying from Dallas to San Francisco with the following items:
+1. A backpack: 21 x 11 x 6 inches, 11 lbs;
+2. A backpack: 51 x 35 x 28 inches, 52 lbs;
+3. A backpack: 38 x 18 x 9 inches, 92 lbs;
+4. A luggage box: 36 x 15 x 13 inches, 66 lbs;
+5. A luggage box: 41 x 20 x 19 inches, 51 lbs;
+6. A luggage box: 34 x 19 x 11 inches, 67 lbs;
+7. A luggage box: 38 x 15 x 12 inches, 75 lbs;
+8. A luggage box: 38 x 13 x 12 inches, 51 lbs;
+
+Susan's flight ticket is $147.
